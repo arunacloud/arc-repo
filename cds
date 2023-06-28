@@ -1,4 +1,3 @@
 xcc
 cxbfdg
-cvfbvc bbgb
-vbnbn
+cvfbvc b
